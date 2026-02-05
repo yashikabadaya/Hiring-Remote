@@ -14,3 +14,4 @@ List of all companies hiring people remotely
 | Deep Sync | https://recruiting.paylocity.com/recruiting/jobs/All/3d8a03f1-53c9-4e59-8407-d9a8eaca6c62/Deep-Sync
 | Get Kisi | https://ats.rippling.com/en-GB/kisi-jobs/jobs
 | Highlevel | https://jobs.lever.co/gohighlevel
+| SynthioLabs | https://tally.so/r/wAMVXD
