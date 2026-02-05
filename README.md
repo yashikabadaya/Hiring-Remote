@@ -17,3 +17,4 @@ List of all companies hiring people remotely
 | SynthioLabs | https://tally.so/r/wAMVXD
 | AppWrite | https://www.appwrite.careers/
 | Ethena Labs | https://jobs.lever.co/ethenalabs
+| Optexity |https://optexity.notion.site/optexity-careers
