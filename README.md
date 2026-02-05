@@ -16,3 +16,4 @@ List of all companies hiring people remotely
 | Highlevel | https://jobs.lever.co/gohighlevel
 | SynthioLabs | https://tally.so/r/wAMVXD
 | AppWrite | https://www.appwrite.careers/
+| Ethena Labs | https://jobs.lever.co/ethenalabs
