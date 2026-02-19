@@ -1,5 +1,5 @@
 # Hiring-Remote
-List of all companies hiring people remotely
+List of all companies hiring people (based anywhere) remotely - 
 
 
 | Company | Link 
