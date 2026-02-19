@@ -18,3 +18,4 @@ List of all companies hiring people remotely
 | AppWrite | https://www.appwrite.careers/
 | Ethena Labs | https://jobs.lever.co/ethenalabs
 | Optexity |https://optexity.notion.site/optexity-careers
+| Jona Health | https://jonahealth.notion.site/jona-careers?p=2fd20fb4fcec81ca8625e04e362c8d97&pm=s
